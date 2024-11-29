@@ -6,6 +6,7 @@ def afficherMenu():
     2:Coca    2.5$
     3:snickers   4$
     4:Mars   2.5$
+    5:LaCigogne 999.99$
     q:quitter
     ----
     """)
@@ -43,3 +44,10 @@ while quit == 1:
         else print("insérer l'argent")
         print("paiement reussi✓")  
         print('voici votre mars')
+    if choix == '5'
+       input("Comment Monsieur compte régler?                  carte de credit:1      espece :2")
+        if  input("1")
+        print(inserer votre carte)
+        else print("insérer l'argent")
+        print("paiement reussi✓")  
+        print('voici votre Cigogne Monsieur')
